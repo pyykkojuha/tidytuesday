@@ -1,6 +1,10 @@
 # tidytuesday
 
-Data visualization with R. Contributions to [#TidyTuesday](https://github.com/rfordatascience/tidytuesday).
+Data visualization with `R`
+
+Contributions to [#TidyTuesday](https://github.com/rfordatascience/tidytuesday)
+
+[@juha_pyykko](https://www.twitter.com/juha_pyykko)
 
 ***
 
