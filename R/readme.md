@@ -1,1 +1,1 @@
-R codes and folder for TidyTuesday
+R codes and folders for TidyTuesday contributions.
