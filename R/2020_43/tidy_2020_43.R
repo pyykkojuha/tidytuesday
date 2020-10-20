@@ -22,7 +22,6 @@ TIDY <- ggplot(cities, aes(x=city, y=N, fill=medal)) +
   labs(title = "Great American\nBeer Festival",
        subtitle = "1987-2020  x  Big Cities") +
   xlab("") + ylab("") +
-  guides(shape = guide_legend(override.aes = list(shape = 20))) +
   theme_minimal() +
   theme(panel.grid.major.y = element_blank(), 
         panel.grid.major.x = element_blank(),
