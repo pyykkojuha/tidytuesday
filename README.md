@@ -4,8 +4,13 @@ Contributions to [#TidyTuesday](https://github.com/rfordatascience/tidytuesday) 
 
 ***
 
+### Week 2020/44
+<a href="https://github.com/pyykkojuha/tidytuesday/tree/main/R/2020_44"><img src="https://raw.githubusercontent.com/pyykkojuha/tidytuesday/main/R/2020_44/TIDY_2020_44.png" alt="2020/44" width="60%"></a>
+
+***
+
 ### Week 2020/43
-<a href="https://github.com/pyykkojuha/tidytuesday/tree/main/R/2020_43"><img src="https://raw.githubusercontent.com/pyykkojuha/tidytuesday/main/R/2020_43/TIDY_2020_43.png" alt="2020/42" width="60%"></a>
+<a href="https://github.com/pyykkojuha/tidytuesday/tree/main/R/2020_43"><img src="https://raw.githubusercontent.com/pyykkojuha/tidytuesday/main/R/2020_43/TIDY_2020_43.png" alt="2020/43" width="60%"></a>
 
 ***
 
