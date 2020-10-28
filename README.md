@@ -1,6 +1,8 @@
-# tidytuesday / CLICK IMAGE FOR CODE
+# tidytuesday
 
 Contributions to [#TidyTuesday](https://github.com/rfordatascience/tidytuesday) as data visualization with `R`
+
+# CLICK IMAGE FOR CODE
 
 ***
 
