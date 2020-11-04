@@ -46,7 +46,7 @@ TIDYi <- ggplot(ikea, aes(x=width, y=height)) +
         legend.position = "none",
         text = element_text(family="Alata", color="floralwhite"),
         plot.caption = element_text(size=8),
-        plot.background = element_rect(fill = "darksalmon", colour = NA),
+        plot.background = element_rect(fill = "goldenrod", colour = NA),
         plot.margin=unit(c(0,.5,.5,0),"cm") )
 
 ggsave(TIDYi, file="figure/TIDY_2020_45i.png", width = 6, height = 6, units = "in") 
