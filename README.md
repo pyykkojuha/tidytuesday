@@ -2,6 +2,10 @@
 
 Contributions and codes to [#TidyTuesday](https://github.com/rfordatascience/tidytuesday) as data visualization with `R`
 
+
+### [2020/48 .:. TRAILS](https://github.com/pyykkojuha/tidytuesday/tree/main/R/2020_48)
+<a href="https://github.com/pyykkojuha/tidytuesday/tree/main/R/2020_48"><img src="https://raw.githubusercontent.com/pyykkojuha/tidytuesday/main/R/2020_48/TIDY_2020_48.png" alt="2020/48" width="50%"></a>
+
 ### [2020/46 .:. PHONE](https://github.com/pyykkojuha/tidytuesday/tree/main/R/2020_46)
 <a href="https://github.com/pyykkojuha/tidytuesday/tree/main/R/2020_46"><img src="https://raw.githubusercontent.com/pyykkojuha/tidytuesday/main/R/2020_46/TIDY_2020_46.png" alt="2020/46" width="50%"></a>
 
