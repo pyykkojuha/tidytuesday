@@ -79,6 +79,7 @@ TIDY <-  ggplot(highest, aes(x=position, y=highpoint_km, fill=region), width=.5)
         legend.position = "none", 
         text=element_text(family="Rubik Mono One", size=12),
         plot.title    = element_text(colour = "black"),
+        plot.caption  = element_text(colour = "plum2"),
         plot.subtitle = element_text(colour = "saddlebrown", margin = unit(c(0, 0, 2, 0), "mm")),
         axis.text     = element_text(colour = "saddlebrown"),
         axis.title    = element_text(colour = "saddlebrown"),
