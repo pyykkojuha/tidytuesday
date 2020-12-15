@@ -2,9 +2,11 @@
 
 Contributions and codes to [#TidyTuesday](https://github.com/rfordatascience/tidytuesday) as data visualization with `R`
 
+### [2020/51 .:. NINJA](https://github.com/pyykkojuha/tidytuesday/tree/main/R/2020_51)
+<a href="https://github.com/pyykkojuha/tidytuesday/tree/main/R/2020_51"><img src="https://raw.githubusercontent.com/pyykkojuha/tidytuesday/main/R/2020_51/TIDY_2020_51.png" alt="2020/51" width="50%"></a>
 
 ### [2020/50 .:. WOMEN](https://github.com/pyykkojuha/tidytuesday/tree/main/R/2020_50)
-<a href="https://github.com/pyykkojuha/tidytuesday/tree/main/R/2020_50"><img src="https://raw.githubusercontent.com/pyykkojuha/tidytuesday/main/R/2020_50/TIDY_2020_50.png" alt="2020/48" width="50%"></a>
+<a href="https://github.com/pyykkojuha/tidytuesday/tree/main/R/2020_50"><img src="https://raw.githubusercontent.com/pyykkojuha/tidytuesday/main/R/2020_50/TIDY_2020_50.png" alt="2020/50" width="50%"></a>
 
 ### [2020/48 .:. TRAILS](https://github.com/pyykkojuha/tidytuesday/tree/main/R/2020_48)
 <a href="https://github.com/pyykkojuha/tidytuesday/tree/main/R/2020_48"><img src="https://raw.githubusercontent.com/pyykkojuha/tidytuesday/main/R/2020_48/TIDY_2020_48.png" alt="2020/48" width="50%"></a>
