@@ -2,6 +2,9 @@
 
 Contributions and codes to [#TidyTuesday](https://github.com/rfordatascience/tidytuesday) as data visualization with `R`
 
+### [2020/52 .:. BIG MAC](https://github.com/pyykkojuha/tidytuesday/tree/main/R/2020_52)
+<a href="https://github.com/pyykkojuha/tidytuesday/tree/main/R/2020_52"><img src="https://raw.githubusercontent.com/pyykkojuha/tidytuesday/main/R/2020_52/TIDY_2020_52.png" alt="2020/52" width="50%"></a>
+
 ### [2020/51 .:. NINJA](https://github.com/pyykkojuha/tidytuesday/tree/main/R/2020_51)
 <a href="https://github.com/pyykkojuha/tidytuesday/tree/main/R/2020_51"><img src="https://raw.githubusercontent.com/pyykkojuha/tidytuesday/main/R/2020_51/TIDY_2020_51.png" alt="2020/51" width="50%"></a>
 
