@@ -6,7 +6,7 @@ Based on https://gist.github.com/sushmitavgopalan16/d6b14605e0e85d7d1d2b312ba778
 
 ```
 #
-# @SushGoplan
+# @SushGopalan
 #
 
 library(tidyverse)
