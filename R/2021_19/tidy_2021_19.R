@@ -31,9 +31,9 @@ TIDY <- ggplot(data = world, aes(fill = selected)) +
   annotate(geom="text", y=12.65, x=-7.9,     hjust=0, vjust=.5, angle=0, alpha=1, family=FONT, size=5, color=GREEN, label="BAMAKO") +
   geom_point(data = mali, aes(x = lon_deg, y = lat_deg), size = 1, alpha=1, fill = "black") +
   coord_sf(xlim = c(-12.6-5, 4.7+5), ylim = c(9.7, 25.2), expand = FALSE) +
-  annotate(geom="text", y=20,   x=-17.5, hjust=0, vjust=.5, angle=0, alpha=1, family=FONT, size=14, color=GREEN, label="BOREHOLES IN MALI") +
-  annotate(geom="text", y=19,   x=-17.5, hjust=0, vjust=.5, angle=0, alpha=1, family=FONT, size=11.5, color=GREEN, label="water point data exhange") +
-  annotate(geom="text", y=10.5, x=9,     hjust=1, vjust=.5, angle=0, alpha=1, family=FONT, size=5, color=GREEN, label="source: wpdx | graphic: pyyxxo | #tidytuesday 2021/19") +
+  annotate(geom="text", y=20,   x=-17.5, hjust=0, vjust=.5, angle=0, alpha=1, family=FONT, size=14.2, color=GREEN, label="BOREHOLES IN MALI") +
+  annotate(geom="text", y=19,   x=-17.5, hjust=0, vjust=.5, angle=0, alpha=1, family=FONT, size=11.2, color=GREEN, label="water point data exchange") +
+  annotate(geom="text", y=10.5, x=9,     hjust=1, vjust=.5, angle=0, alpha=1, family=FONT, size=5,    color=GREEN, label="source: wpdx | graphic: pyyxxo | #tidytuesday 2021/19") +
   theme_void() +
   theme(legend.position="none",
         plot.background = element_rect(fill = YELLOW, colour = NA), 
