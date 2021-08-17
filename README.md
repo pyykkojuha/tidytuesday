@@ -10,6 +10,7 @@ Contributions and codes to [#TidyTuesday](https://github.com/rfordatascience/tid
 <a href="https://github.com/pyykkojuha/tidytuesday/tree/main/R/2021_28"><img src="https://raw.githubusercontent.com/pyykkojuha/tidytuesday/main/R/2021_28/TIDY_2021_28.png" alt="2021/28" width="32%"></a> 
 <a href="https://github.com/pyykkojuha/tidytuesday/tree/main/R/2021_19"><img src="https://raw.githubusercontent.com/pyykkojuha/tidytuesday/main/R/2021_19/TIDY_2021_19.png" alt="2021/19" width="32%"></a> 
 <a href="https://github.com/pyykkojuha/tidytuesday/tree/main/R/2021_15"><img src="https://raw.githubusercontent.com/pyykkojuha/tidytuesday/main/R/2021_15/TIDY_2021_15.png" alt="2021/15" width="32%"></a> 
+<a href="https://github.com/pyykkojuha/tidytuesday/tree/main/R/2021_14"><img src="https://raw.githubusercontent.com/pyykkojuha/tidytuesday/main/R/2021_14/TIDY_2021_14.png" alt="2021/14" width="32%"></a> 
 <a href="https://github.com/pyykkojuha/tidytuesday/tree/main/R/2021_13"><img src="https://raw.githubusercontent.com/pyykkojuha/tidytuesday/main/R/2021_13/TIDY_2021_13.png" alt="2021/13" width="32%"></a> 
 <a href="https://github.com/pyykkojuha/tidytuesday/tree/main/R/2021_12"><img src="https://raw.githubusercontent.com/pyykkojuha/tidytuesday/main/R/2021_12/TIDY_2021_12.png" alt="2021/12" width="32%"></a> 
 <a href="https://github.com/pyykkojuha/tidytuesday/tree/main/R/2021_10"><img src="https://raw.githubusercontent.com/pyykkojuha/tidytuesday/main/R/2021_10/TIDY_2021_10.png" alt="2021/10" width="32%"></a> 
