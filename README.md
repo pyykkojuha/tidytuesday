@@ -4,6 +4,7 @@ Contributions and codes to [#TidyTuesday](https://github.com/rfordatascience/tid
 
 ### 2021
 
+<a href="https://github.com/pyykkojuha/tidytuesday/tree/main/R/2021_44"><img src="https://raw.githubusercontent.com/pyykkojuha/tidytuesday/main/R/2021_44/TIDY_2021_44.png" alt="2021/44" width="32%"></a> 
 <a href="https://github.com/pyykkojuha/tidytuesday/tree/main/R/2021_38"><img src="https://raw.githubusercontent.com/pyykkojuha/tidytuesday/main/R/2021_38/TIDY_2021_38.png" alt="2021/38" width="32%"></a> 
 <a href="https://github.com/pyykkojuha/tidytuesday/tree/main/R/2021_35"><img src="https://raw.githubusercontent.com/pyykkojuha/tidytuesday/main/R/2021_35/TIDY_2021_35.png" alt="2021/35" width="32%"></a> 
 <a href="https://github.com/pyykkojuha/tidytuesday/tree/main/R/2021_34"><img src="https://raw.githubusercontent.com/pyykkojuha/tidytuesday/main/R/2021_34/TIDY_2021_34.png" alt="2021/34" width="32%"></a> 
