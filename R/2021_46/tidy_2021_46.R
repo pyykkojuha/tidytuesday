@@ -36,7 +36,7 @@ TIDY <- tm_shape(afripop2020) +
             main.title.size = 3,
             main.title.color = "gray90", 
             title = "@PYYXXO\ndata: afrimapr/afrilearndata/afripop2020\n#TidyTuesday 2021/46",
-            title.size = 125,
+            title.size = 1.25,
             title.position = c("left", "bottom"),
             title.color = "gray70",
             bg.color="gray10")
