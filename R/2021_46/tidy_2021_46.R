@@ -17,9 +17,7 @@ library(mapview)
 
 # data ----
 #remotes::install_github("afrimapr/afrilearndata")
-#remotes::install_github("afrimapr/afrihealthsites")
 library(afrilearndata)
-library(afrihealthsites)
 
 # afripop2020: modelled population density 2020 per square km from WorldPop aggregated to mean per 20km squares
 
