@@ -1,6 +1,6 @@
 # tidytuesday
 
-Contributions and codes to [#TidyTuesday](https://github.com/rfordatascience/tidytuesday) as data visualization with `R`. Click images for codes.
+Contributions and codes to [#TidyTuesday](https://github.com/rfordatascience/tidytuesday) as data visualization with `R` by [@pyyxxo](https://twitter.com/pyyxxo). Click images for codes.
   
 ### 2022
   
