@@ -2,6 +2,10 @@
 
 Contributions and codes to [#TidyTuesday](https://github.com/rfordatascience/tidytuesday) as data visualization with `R`. Click images for codes.
   
+### 2022
+  
+<a href="https://github.com/pyykkojuha/tidytuesday/tree/main/R/2022_03"><img src="https://raw.githubusercontent.com/pyykkojuha/tidytuesday/main/900/TIDY_2022_03_900.png" alt="2022/03" width="32%"></a> 
+
 ### 2021
   
 <a href="https://github.com/pyykkojuha/tidytuesday/tree/main/R/2021_46"><img src="https://raw.githubusercontent.com/pyykkojuha/tidytuesday/main/900/TIDY_2021_46_900.png" alt="2021/46" width="32%"></a> 
