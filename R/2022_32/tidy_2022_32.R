@@ -23,10 +23,11 @@ wheels$decade[wheels$year10==2000] <- "2000s"
 wheels$decade[wheels$year10==2010] <- "2010s"
 
 # color/font ----
-ORANGE  <- "#ffa62b"
-BLUE    <- "#489fb5"
-WHITE <- "#ede7e3"
-FONT  <- "Spectral"
+# Colors by COOLORS: https://coolors.co/palette/16697a-489fb5-82c0cc-ede7e3-ffa62b
+ORANGE <- "#ffa62b"
+BLUE   <- "#489fb5"
+WHITE  <- "#ede7e3"
+FONT   <- "Spectral"
 
 # plot ----
 TIDY <- ggplot(subset(wheels, year10 != 2020 & !is.na(height_m))) +
