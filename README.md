@@ -3,8 +3,8 @@
 Contributions and codes to [#TidyTuesday](https://github.com/rfordatascience/tidytuesday) as data visualization with `R` by [@pyyxxo](https://twitter.com/pyyxxo). Click images for codes.
   
 ### 2022
-  
-  
+
+<a href="https://github.com/pyykkojuha/tidytuesday/tree/main/R/2022_45"><img src="https://raw.githubusercontent.com/pyykkojuha/tidytuesday/main/900/TIDY_2022_45_900.png" alt="2022/45" width="32%"></a>
 <a href="https://github.com/pyykkojuha/tidytuesday/tree/main/R/2022_33"><img src="https://raw.githubusercontent.com/pyykkojuha/tidytuesday/main/900/TIDY_2022_33_900.png" alt="2022/33" width="32%"></a>
 <a href="https://github.com/pyykkojuha/tidytuesday/tree/main/R/2022_32"><img src="https://raw.githubusercontent.com/pyykkojuha/tidytuesday/main/900/TIDY_2022_32_900.png" alt="2022/32" width="32%"></a>
 <a href="https://github.com/pyykkojuha/tidytuesday/tree/main/R/2022_29"><img src="https://raw.githubusercontent.com/pyykkojuha/tidytuesday/main/900/TIDY_2022_29_900.png" alt="2022/29" width="32%"></a>
