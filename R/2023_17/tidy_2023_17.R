@@ -47,7 +47,7 @@ TIDY2 <- ggplot(subset(london_marathon, Year<2020)) +
   geom_area(aes(x=Year, y=Accepted)  , col = NA, fill = COL2) +
   geom_area(aes(x=Year, y=Starters)  , col = NA, fill = COL3) +
   geom_area(aes(x=Year, y=Finishers) , col = NA, fill = COL4) +
-  geom_text(label="Applicants",  y=350000, x=1982, hjust=0, vjust=0, family=FONT1, size=12, col=COL2) +
+  geom_text(label="Applicants",  y=350000, x=1982, hjust=0, vjust=0, family=FONT1, size=12, col=COL1) +
   geom_text(label="London Marathon Runners 1981-2019", 
             y=7500,  x=2018, hjust=1, vjust=0, family=FONT1, size=4.5,  col=COL5) +
   geom_text(label="Graphic: PYYXXO | Data: Nicola Rennie's LondonMarathon R package | #TidyTuesday 2023/17", 
