@@ -37,3 +37,23 @@ TIDY <- ggplot(subset(london_marathon, Year<2020)) +
         plot.margin     = unit(c(-8, -8, -8, -8),"mm"))
 
 ggsave(TIDY, file="figure/TIDY_2023_17.png", width = 9*(2/3), height = 9*(2/3), units = "in")
+
+
+#
+# #
+
+TIDY2 <- ggplot(subset(london_marathon, Year<2020)) +
+  geom_area(aes(x=Year, y=Applicants), col = NA, fill = COL1) +
+  geom_area(aes(x=Year, y=Accepted)  , col = NA, fill = COL2) +
+  geom_area(aes(x=Year, y=Starters)  , col = NA, fill = COL3) +
+  geom_area(aes(x=Year, y=Finishers) , col = NA, fill = COL4) +
+  geom_text(label="Applicants",  y=350000, x=1982, hjust=0, vjust=0, family=FONT1, size=12, col=COL2) +
+  geom_text(label="London Marathon Runners 1981-2019", 
+            y=7500,  x=2018, hjust=1, vjust=0, family=FONT1, size=4.5,  col=COL5) +
+  geom_text(label="Graphic: PYYXXO | Data: Nicola Rennie's LondonMarathon R package | #TidyTuesday 2023/17", 
+            y=3000, x=2018, hjust=1, vjust=0, family=FONT2, size=2,  col=COL5) +
+  theme_void() +
+  theme(plot.background = element_rect(fill = COL5, colour = NA),
+        plot.margin     = unit(c(-8, -8, -8, -8),"mm"))
+
+ggsave(TIDY2, file="figure/TIDY_2023_17A.png", width = 9*(2/3), height = 9*(2/3), units = "in")
