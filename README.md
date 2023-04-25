@@ -5,8 +5,8 @@ Contributions and codes to [#TidyTuesday](https://github.com/rfordatascience/tid
 ### 2023
 
 <a href="https://github.com/pyykkojuha/tidytuesday/tree/main/R/2023_17"><img src="https://raw.githubusercontent.com/pyykkojuha/tidytuesday/main/900/TIDY_2023_17_900.png" alt="2023/17" width="18%"></a>
-<a href="https://github.com/pyykkojuha/tidytuesday/tree/main/R/2023_14"><img src="https://raw.githubusercontent.com/pyykkojuha/tidytuesday/main/900/TIDY_2023_14_900.png" alt="2023/14" width="15%"></a>
-<a href="https://github.com/pyykkojuha/tidytuesday/tree/main/R/2023_14"><img src="https://raw.githubusercontent.com/pyykkojuha/tidytuesday/main/900/TIDY_2023_14_900.png" alt="2023/14" width="15%"></a>
+<a href="https://github.com/pyykkojuha/tidytuesday/tree/main/R/2023_17"><img src="https://raw.githubusercontent.com/pyykkojuha/tidytuesday/main/900/TIDY_2023_17A_900.png" alt="2023/17" width="18%"></a>
+<a href="https://github.com/pyykkojuha/tidytuesday/tree/main/R/2023_14"><img src="https://raw.githubusercontent.com/pyykkojuha/tidytuesday/main/900/TIDY_2023_14_900.png" alt="2023/14" width="16%"></a>
 <a href="https://github.com/pyykkojuha/tidytuesday/tree/main/R/2023_12"><img src="https://raw.githubusercontent.com/pyykkojuha/tidytuesday/main/900/TIDY_2023_12_900.png" alt="2023/12" width="32%"></a>
 
 ### 2022
