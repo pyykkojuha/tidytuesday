@@ -1,5 +1,5 @@
-# TidyTueday, Week 28, 2022
-# https://github.com/rfordatascience/tidytuesday/blob/master/data/2022/2022-07-11/readme.md
+# TidyTueday, Week 28, 2023
+# https://github.com/rfordatascience/tidytuesday/blob/master/data/2023/2023-07-11/readme.md
 
 library(ggplot2)
 library(ggforce) # geom_circle
@@ -42,14 +42,14 @@ TIDY2 <- ggplot(zonann_temps_scaled) +
   # MEAN LINE
   geom_segment(aes(x=-90, xend=90, y=0, yend=0), col="seashell1", size=.1) +
   # LATIRUDE CURVES
-  geom_line(aes(x=Year2, y=`64N-90N`), col=COLORS_ZON[1]) +
-  geom_line(aes(x=Year2, y=`44N-64N`), col=COLORS_ZON[2]) +
-  geom_line(aes(x=Year2, y=`24N-44N`), col=COLORS_ZON[3]) +
-  geom_line(aes(x=Year2, y=`EQU-24N`), col=COLORS_ZON[4]) +
-  geom_line(aes(x=Year2, y=`24S-EQU`), col=COLORS_ZON[5]) +
-  geom_line(aes(x=Year2, y=`44S-24S`), col=COLORS_ZON[4]) +
-  geom_line(aes(x=Year2, y=`64S-44S`), col=COLORS_ZON[3]) +
-  geom_line(aes(x=Year2, y=`90S-64S`), col=COLORS_ZON[2]) +
+  geom_line(aes(x=Year2, y=`64N-90N`), col=COLORS_ZON[8]) +
+  geom_line(aes(x=Year2, y=`44N-64N`), col=COLORS_ZON[7]) +
+  geom_line(aes(x=Year2, y=`24N-44N`), col=COLORS_ZON[6]) +
+  geom_line(aes(x=Year2, y=`EQU-24N`), col=COLORS_ZON[5]) +
+  geom_line(aes(x=Year2, y=`24S-EQU`), col=COLORS_ZON[4]) +
+  geom_line(aes(x=Year2, y=`44S-24S`), col=COLORS_ZON[3]) +
+  geom_line(aes(x=Year2, y=`64S-44S`), col=COLORS_ZON[2]) +
+  geom_line(aes(x=Year2, y=`90S-64S`), col=COLORS_ZON[1]) +
   # TEXT
   geom_text(aes(y=-100, x=-100*16/9, label = LABEL), family="Sora", col="#242220", size=2, hjust=0, vjust=0) +
   # SETTINGS
@@ -59,4 +59,4 @@ TIDY2 <- ggplot(zonann_temps_scaled) +
   theme_void() +
   theme(plot.margin= unit(c(-9/2, -16/2, -9/2, -16/2),"mm"))
 
-ggsave(TIDY, file="figure/TIDY_2022_28.png", width = 16*(2/3), height = 9*(2/3), units = "in") 
+ggsave(TIDY, file="figure/TIDY_2023_28.png", width = 16*(2/3), height = 9*(2/3), units = "in") 
