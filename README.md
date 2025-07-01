@@ -4,6 +4,15 @@ Contributions to [#TidyTuesday](https://github.com/rfordatascience/tidytuesday) 
 
 **Click images for codes.**
     
+### 2025
+
+<a href="https://github.com/pyykkojuha/tidytuesday/tree/main/R/2025_26"><img src="https://raw.githubusercontent.com/pyykkojuha/tidytuesday/main/900/TIDY_2025_26_900.png" alt="2023/49" width="16%"></a>
+
+
+### 2024
+
+🥶
+
 ### 2023
 
 <a href="https://github.com/pyykkojuha/tidytuesday/tree/main/R/2023_49"><img src="https://raw.githubusercontent.com/pyykkojuha/tidytuesday/main/900/TIDY_2023_49_900.png" alt="2023/49" width="16%"></a>
