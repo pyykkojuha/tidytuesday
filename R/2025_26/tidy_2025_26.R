@@ -33,6 +33,7 @@ comp_wide <- left_join(comp_gas, comp_die, by="date")
 comp_wide$diff <- comp_wide$diesel - comp_wide$gasoline
 
 # colors ----
+# https://coolors.co/palette/ffcdb2-ffb4a2-e5989b-b5838d-6d6875
 COL1 <- "#ffcdb2"
 COL2 <- "#ffb4a2"
 COL3 <- "#e5989b"
